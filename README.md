@@ -7,12 +7,12 @@ This project implements a face detection and recognition in Python (based on Eig
 **Technologies and devices used:**
 * Python 2.7
 * Python libraries:
-	* OpenCV v.2.4.12
+	* OpenCV v.2.4.12	//OpenSource ComputerVision Libraries
 	* NumPy
 	* Tkinter
-	* Os (to scan files)
-* Ordinary Web Camera
-* Tested on the device "Banana Pro"
+	* Os (to scan files)	//Linux Recommended
+* Ordinary Web Camera	//or Laptop Camera
+* Tested on the device "Banana Pro"	//Single Board Computer Like Raspberry Pi
 
 ## Testing the script
 ### Recognize the image from the web camera
